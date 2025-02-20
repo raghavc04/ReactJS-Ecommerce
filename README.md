@@ -6,7 +6,7 @@ This is a fully functional eCommerce website built with **React.js**. The projec
 ---
 
 ## 🚀 Live Demo
-[Click here to visit the live website](#) *(Deploy on Vercel/Netlify and update this link)*
+https://raghavecommerce.netlify.app/
 
 ---
 
